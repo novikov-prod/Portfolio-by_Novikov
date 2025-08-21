@@ -4,6 +4,13 @@ Name: Kirill
 Age: 17
 Stack: JavaScript, Golang,  React, NodeJS, Docker, Python, Git, MongoDB/PostgreSql
 
+Skills:
+Languages: JS, Python, SQL, Golang
+Frontend: React, Tailwind CSS
+Backend: Node.js, Prisma, Docker
+Tools: Git, VSCode
+Additional: Asynchronous programming, multithreading, REST API
+
 I’m learning to write fast and understandable web services. 
 I’m interested in asynchronous programming, architecture, and modern frameworks. 
 I want to improve my skills through real-world tasks.
@@ -16,6 +23,14 @@ Russian:
 
 Имя: Кирилл
 Возраст: 17
+Стек: JavaScript, Golang,  React, NodeJS, Docker, Python, Git, MongoDB/PostgreSql
+
+Навыки: 
+Языки: JS, Python, SQL, Golang
+Frontend: React, Tailwind CSS
+Backend: Node.js, Prisma, Docker
+Инструменты: Git, VSCode
+Дополнтительно: Ассинхронность, многопоточность, Rest API
 
 Учусь писать быстрые и понятные веб-сервисы. 
 Интересуюсь ассинхронностью, архитектурой и современными фреймворками. 
